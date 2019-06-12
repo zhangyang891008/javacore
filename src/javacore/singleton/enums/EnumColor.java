@@ -1,4 +1,4 @@
-package javacore.singleton;
+package javacore.singleton.enums;
 
 public enum EnumColor {
 	
